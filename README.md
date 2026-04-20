@@ -1,2 +1,7 @@
-# demo-avenue-coffee
-Demo web para Avenue Coffee — diseñada por eterlab.
+# Avenue Coffee
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
